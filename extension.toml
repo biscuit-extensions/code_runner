@@ -1,0 +1,7 @@
+[extension]
+id = "code_runner"
+name = "Code Runner"
+version = "0.1.0"
+description = "Run code snippets or files for multiple languages with one shortcut"
+author = "biscuit-extensions"
+icon = "icon.png"
